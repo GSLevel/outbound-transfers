@@ -1,8 +1,9 @@
-# "Transfer" to a scammer's bank account
-# "Transfer" to a zelle email
-# Get ALL the information sent to you via a discord webhook
+# Outbound Transfers DSJAS Module
+- **"Transfer" to a scammer's bank account**
+- **"Transfer" to a zelle email**
+- **Get ALL the information sent to you via a discord webhook**
 
-This theme allows you to 'send' money to a scammer's bank account or zelle email.
+This module allows you to 'send' money to a scammer's bank account or zelle email.
 
 How is this even possible with DSJAS?
 The money would be sent to a 'ghost' account, account 999,999 to be exact, which doesn't exist, but the money is still deducted from your balance anyway and the transfer's a success.
