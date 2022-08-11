@@ -13,11 +13,38 @@ The money would be sent to a 'ghost' account, account 999,999 to be exact, which
 </p>  
 <p align="center">
 What's one of the best parts of this module?
-Discord Webhooks. In order to use them, you need to type in the following code in your console in your Virtual Machine: localStorage.setItem('DiscordWebhook', 'YOUR URL')
+Discord Webhooks. In order to use them, you need to type in the following code in your console in your Virtual Machine:
+</p>
+
+ ```javascript
+ 
+ localStorage.setItem('DiscordWebhook', 'YOUR URL') 
+ 
+ ```
+ 
+<p align="center">
 It should be self-explanatory of what you would replace YOUR URL with (make sure to keep in in the quotation marks).
   </p>
 <p align="center">
-If you don't want to use webhooks, type in localStorage.setItem('DiscordWebhook', undefined) instead. Fun fact, if you type in localStorage.setItem('DiscordWebhook', ''), you get an error when transferring, I don't know why, but that's how it is. There's also a confirmation before transferring, this is just so the discord webhook message can have the opportunity to be sent.
+If you don't want to use webhooks, type in the following instead: 
+ </p>
+ 
+ ```javascript
+ 
+ localStorage.setItem('DiscordWebhook', undefined)
+ 
+ ```
+ 
+ <p align="center">
+ Fun fact, if you type in </p> 
+ 
+ ```javascript
+ 
+ localStorage.setItem('DiscordWebhook', '')
+ 
+ ```
+ <p align="center">
+ you get an error when transferring, I don't know why, but that's how it is. There's also a confirmation before transferring, this is just so the discord webhook message can have the opportunity to be sent.
   </p>
 <p align="center">
   <b>Happy scambating!</b>
