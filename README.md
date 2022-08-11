@@ -17,8 +17,15 @@ Discord Webhooks. In order to use them, you need to type in the following code i
 It should be self-explanatory of what you would replace YOUR URL with (make sure to keep in in the quotation marks).
   </p>
 <p align="center">
-If you don't want to use webhooks, type in localStorage.setItem('DiscordWebhook', undefined) instead. Fun fact, if you type in localStorage.setItem('DiscordWebhook', ''), you get an error when transferring, I don't know why, but that's how it is.
+If you don't want to use webhooks, type in localStorage.setItem('DiscordWebhook', undefined) instead. Fun fact, if you type in localStorage.setItem('DiscordWebhook', ''), you get an error when transferring, I don't know why, but that's how it is. There's also a confirmation before transferring, this is just so the discord webhook message can have the opportunity to be sent.
   </p>
 <p align="center">
   <b>Happy scambating!</b>
 </p>
+
+Screenshots of the module:
+
+![image](https://user-images.githubusercontent.com/67515314/184163609-cf3af35d-6d94-4e58-93d5-f3a0e5331f4f.png)
+![image](https://user-images.githubusercontent.com/67515314/184163688-818b0044-5677-42aa-87aa-ab71e3b89c7d.png)
+![image](https://user-images.githubusercontent.com/67515314/184163848-d55d6fc9-5df3-445f-9f62-8401be6c10f1.png)
+
