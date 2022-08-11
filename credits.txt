@@ -1,0 +1,2 @@
+Partially inspired by: https://github.com/DSJAS/DSJAS/discussions/8 (For the discord webhook feature)
+Used this tutorial for discord webhooks: https://www.youtube.com/watch?v=-4Lid7tBr6Y

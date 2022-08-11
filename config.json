@@ -1,0 +1,18 @@
+{
+    "name": "Outbound Transfers",
+    "description": "A module that enables transferring to other accounts (scammer's account) or Zelle Email. To enable discord webhooks, type in localStorage.setItem('DiscordWebhook', 'YOUR URL')",
+    "information-link": "https://github.com/GSLevel/outbound-transfers/",
+    "version": "1.0.0",
+    "hooks": {
+        "main": {
+            "triggerEvent": "all",
+            "loadCSS": false,
+            "loadJS": true,
+            "loadHTML": false
+        }
+    },
+
+    "fileFilter": [
+        "transfer"
+    ]
+}
