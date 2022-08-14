@@ -13,7 +13,7 @@ The money would be sent to a 'ghost' account, account 999,999 to be exact, which
 </p>  
 <p align="center">
 What's one of the best parts of this module?
-Discord Webhooks. In order to use them, you need to type in the following code in your console in your Virtual Machine:
+Discord Webhooks, <b>so you can log all of the scammer's data (Bank Account Name, Address, Bank Account Number, Account Type, Zelle Name, Zelle Email, Amount Transferred and the Memo.</b> In order to use them, you need to type in the following code in your console in your Virtual Machine:
 </p>
 
  ```javascript
@@ -26,7 +26,7 @@ Discord Webhooks. In order to use them, you need to type in the following code i
 It should be self-explanatory of what you would replace YOUR URL with (make sure to keep in in the quotation marks).
   </p>
 <p align="center">
-If you don't want to use webhooks, type in the following instead: 
+ <b>If you don't want to use webhooks, type in the following instead:</b> 
  </p>
  
  ```javascript
@@ -58,6 +58,6 @@ Screenshots of the module:
 
 Discord webhook messages:
 
-![image](https://user-images.githubusercontent.com/67515314/184165947-7ba3e1e4-7f78-48bf-bec7-f50393d8ead4.png)
-![image](https://user-images.githubusercontent.com/67515314/184166006-0efe6b56-ddd6-4cc2-b29d-720c5640ba85.png)
+![image](https://user-images.githubusercontent.com/67515314/184527254-ee6d7182-ae91-4909-8bfc-36552eedd53a.png)
+(The default webhook's name would be whatever you put it as when you created your webhook, in my case I put Bhenchod Catcher)
 
