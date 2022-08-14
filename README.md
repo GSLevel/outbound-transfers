@@ -52,9 +52,10 @@ It should be self-explanatory of what you would replace YOUR URL with (make sure
 
 Screenshots of the module:
 
-![image](https://user-images.githubusercontent.com/67515314/184163609-cf3af35d-6d94-4e58-93d5-f3a0e5331f4f.png)
-![image](https://user-images.githubusercontent.com/67515314/184163688-818b0044-5677-42aa-87aa-ab71e3b89c7d.png)
-![image](https://user-images.githubusercontent.com/67515314/184163848-d55d6fc9-5df3-445f-9f62-8401be6c10f1.png)
+![image](https://user-images.githubusercontent.com/67515314/184527919-d70cbe0e-1765-4149-be96-6d264be3ccdb.png)
+![image](https://user-images.githubusercontent.com/67515314/184527926-05dc95ca-e1bc-4e5c-a8c1-f2df7768efd6.png)
+![image](https://user-images.githubusercontent.com/67515314/184527932-06820ca2-c253-42ca-9742-cc671edb57f3.png)
+
 
 Discord webhook messages:
 
