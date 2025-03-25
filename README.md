@@ -47,7 +47,7 @@ It should be self-explanatory of what you would replace YOUR URL with (make sure
  you get an error when transferring, I don't know why, but that's how it is. There's also a confirmation before transferring, this is just so the discord webhook message can have the opportunity to be sent.
   </p>
 <p align="center">
-  <b>Happy scambating!</b>
+  <b>Happy scambaiting!</b>
 </p>
 
 Screenshots of the module:
